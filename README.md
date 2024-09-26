@@ -1,4 +1,4 @@
-# phpmyBugs 0.9
+# phpmyBugs ~0.3~ 0.9
 phpmyBugs is a simple, responsive and highly customizable PHP bug tracking system. Currently supports top 6 Languages out of 10 Languages around the world (based on List of languages by number of native speakers).
 ![phpmyBugs logo](https://github.com/dineshkummarc/phpmyBugs/blob/master/screenshots/phpmybugs-logo.png)
 
